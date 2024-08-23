@@ -1,5 +1,7 @@
 ### Project Title: Expense Tracker System
 
+<img src="https://media.licdn.com/dms/image/D5612AQGplp7JKG6Iiw/article-cover_image-shrink_720_1280/0/1673950361361?e=2147483647&v=beta&t=NxzErCoXqQ-xwkHJZZkKGKYNA21hJh3oNMUJzNKQr9M" height="200px" width="200px">
+
 #### Introduction:
 The Expense Tracker System is a C++ program designed to help users manage and track their expenses efficiently. The system allows users to record details of various expenses, view a summary of their expenditures, and store this information in a file for future reference.
 
